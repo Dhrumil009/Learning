@@ -1,0 +1,5 @@
+2017-11-20 13:39:12 DEBUG App:20 - This is debug : Dhrumil Munshi
+2017-11-20 13:39:12 INFO  App:24 - This is info : Dhrumil Munshi
+2017-11-20 13:39:12 WARN  App:27 - This is warn : Dhrumil Munshi
+2017-11-20 13:39:12 ERROR App:28 - This is error : Dhrumil Munshi
+2017-11-20 13:39:12 FATAL App:29 - This is fatal : Dhrumil Munshi
