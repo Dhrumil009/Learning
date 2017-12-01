@@ -6,10 +6,10 @@ public class StringExample {
 		StrindDefault sdefault=new StrindDefault();
 //		System.out.println(sdefault.checkEqual(20, 30));
 //		sdefault.show();
-//		sdefault.equeals(new String("dhrumil"),"dhrumil");
-//		sdefault.equeals(new Integer(10),10);
+//		System.out.println(sdefault.checkEqual("dhrumilMunshi","dhrumil"));
+		sdefault.equeals(new Integer(10),10);
 //		sdefault.StringBufferExample();
-		System.out.println(new String("DhDrDil").replace('D', 'A'));
+//		System.out.println(new String("DhDrDil").replace('D', 'A'));
 	}
 }
 

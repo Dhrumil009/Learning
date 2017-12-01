@@ -21,6 +21,10 @@ public abstract class AbstractClass {
 
 class based extends AbstractClass{
 
+	static {
+		System.out.println("in base static block");
+	}
+	
 	based(){
 		System.out.println("In based class Cons");
 	}
